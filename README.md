@@ -8,7 +8,7 @@ A chatbot designed to respond to user inputs based on predefined rules.
 TASK 2: Tic Tac Toe Game
 An interactive Tic Tac Toe game with a simple graphical interface.
 
-TASK 3: Recommendation System
+TASK 4: Recommendation System
 A basic recommendation system that suggests items based on user preferences or behaviors.
 
 Installation:
